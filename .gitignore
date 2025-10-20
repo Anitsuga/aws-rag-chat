@@ -1,0 +1,30 @@
+# Archivos y carpetas del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Carpetas temporales o de compilación
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.vs/
+*.vscode/
+.idea/
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de logs o temporales
+*.log
+*.tmp
+
+# Archivos personales o de prueba
+test_*.py
+notas.txt
+
+# Archivos de configuración local
+aws_config/
+credentials/
